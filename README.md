@@ -1,5 +1,12 @@
 # base
 
+How to import source code :
+git clone https://github.com/TamerOsman/vuetify.git folder-name
+
+cd folder-name
+
+npm install
+
 ## Project setup
 
 ```
