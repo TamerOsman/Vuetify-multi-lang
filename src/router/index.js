@@ -15,7 +15,7 @@ const routes = [
           name: 'HomeChild1',
           component: () => import('@/views/HomeChild1.vue')},{
             path: '/:lang?/chid2',
-            name: 'Home',
+            name: 'HomeChild2',
             component: () => import('@/views/HomeChild2.vue')},
       ]
     },
@@ -23,6 +23,7 @@ const routes = [
   },
   
 ]
+
 
 const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),

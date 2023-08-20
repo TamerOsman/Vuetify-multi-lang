@@ -1,7 +1,7 @@
 ## How to import source code :
 
 ```
-git clone https://github.com/TamerOsman/vuetify.git folder-name
+git clone https://github.com/TamerOsman/Vuetify-multi-lang folder-name
 cd folder-name
 npm install
 ```
