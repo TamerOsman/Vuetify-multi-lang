@@ -1,5 +1,5 @@
 <template>
-  HOme View chlid 1
+  chlid 1
   <br />
   <p>Current Language: {{ currentLanguage }}</p>
 </template>
